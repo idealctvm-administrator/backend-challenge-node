@@ -1,8 +1,8 @@
 {
   "name": "api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Backend Tecnical Challenge",
+  "author": "Vagner A Saraiva <vagner.saraiva@gmail.com>",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
